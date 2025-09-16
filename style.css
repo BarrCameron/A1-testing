@@ -1,0 +1,16 @@
+#lucy{
+    width :300px;
+}
+
+#cpt{
+    width : 300px;
+}
+
+#testdiv{
+    text-align : center;
+}
+
+.highlight{
+    color : green;
+    font-weight : bold;
+}
